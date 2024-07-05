@@ -1,0 +1,1 @@
+img_bottom = Image.open(r"C:\Users\saipr\Desktop\sai\win sem 3\information security\face recognition\college_images\wp2551980.jpg")
